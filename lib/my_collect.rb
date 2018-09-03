@@ -15,8 +15,8 @@
  end 
 
 
- my_collect(student) do 
+ #my_collect(student) do 
     
-end 
- my_collect(collection) do 
-end
+#end 
+# my_collect(collection) do 
+#end
